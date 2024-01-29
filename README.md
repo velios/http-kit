@@ -69,7 +69,7 @@ Licensed under [Apache 2.0](LICENSE.txt).
 
 [GitHub releases]: ../../releases
 [GitHub issues]:   ../../issues
-[GitHub wiki]:     ../../wiki
+[GitHub wiki]:     wiki
 
 [Peter Taoussanis]: https://www.taoensso.com
 
